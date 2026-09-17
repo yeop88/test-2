@@ -34,7 +34,11 @@
 
 --
 **자바스크립트 코드**
-```print("hello world!")
+```
+print("hello world!")
 var name = prompt("이름을 입려하세요:")
 alert(name+"님 환영합니다.")
 ```
+---
+[깃허브](https://github.com/yeop88/test)
+
